@@ -1,0 +1,10 @@
+{
+"@context": {
+    "abcd": "http://rs.tdwg.org/abcd/terms/",
+    "abcd-efg": "http://rs.tdwg.org/abcd-efg/terms/",
+    "dcterms": "http://purl.org/dc/terms/",
+    "dwc": "http://rs.tdwg.org/dwc/terms/",
+    "dwciri": "http://rs.tdwg.org/dwc/iri/",
+    "schema": "http://schema.org/"
+    }
+}
